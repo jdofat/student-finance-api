@@ -6,6 +6,9 @@ using StudentFinanceApi.Data; //imports 'Data' folder and gives Program.cs acces
 
 var builder = WebApplication.CreateBuilder(args); //creates the application builder(variable) that stores the object is a built-in .NET method
 
+// IMPORTANT FOR RENDER
+builder.WebHost.UseUrls("http://0.0.0.0:10000");
+
 //connect to PostgreSQL
 builder.Services.AddDbContext<AppDbContext>(options => //registers database context as a service: something the application can automatically create and provide when needed
     options.UseNpgsql( //we're using psql: PostgreSQL provider for .NET
