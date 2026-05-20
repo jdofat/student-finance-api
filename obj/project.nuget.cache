@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "KNsc+oe+gzY=",
+  "dgSpecHash": "2CwH/tE/gmY=",
   "success": true,
   "projectFilePath": "/Users/jadeli-ming/Desktop/StudentFinanceApi/StudentFinanceApi/StudentFinanceApi.csproj",
   "expectedPackageFiles": [
@@ -20,10 +20,7 @@
     "/Users/jadeli-ming/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "/Users/jadeli-ming/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
     "/Users/jadeli-ming/.nuget/packages/npgsql/8.0.0/npgsql.8.0.0.nupkg.sha512",
-    "/Users/jadeli-ming/.nuget/packages/npgsql.entityframeworkcore.postgresql/8.0.0/npgsql.entityframeworkcore.postgresql.8.0.0.nupkg.sha512",
-    "/Users/jadeli-ming/.nuget/packages/microsoft.netcore.app.ref/8.0.27/microsoft.netcore.app.ref.8.0.27.nupkg.sha512",
-    "/Users/jadeli-ming/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.27/microsoft.aspnetcore.app.ref.8.0.27.nupkg.sha512",
-    "/Users/jadeli-ming/.nuget/packages/microsoft.netcore.app.host.osx-x64/8.0.27/microsoft.netcore.app.host.osx-x64.8.0.27.nupkg.sha512"
+    "/Users/jadeli-ming/.nuget/packages/npgsql.entityframeworkcore.postgresql/8.0.0/npgsql.entityframeworkcore.postgresql.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }
