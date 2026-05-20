@@ -21,6 +21,9 @@ builder.Services.AddControllers();
 // now we build and start the application:
 
 var app = builder.Build(); //builds the application
+//recognize the frontend html/js/css files:
+app.UseDefaultFiles();
+app.UseStaticFiles();
 
 //configures API routing, tells .net to search for controller classes and activate their routes:
 app.MapControllers(); 
